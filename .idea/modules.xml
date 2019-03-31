@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../CreateSiteMap/.idea/CreateSiteMap.iml" filepath="$PROJECT_DIR$/../CreateSiteMap/.idea/CreateSiteMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../FootShirtControls/.idea/FootShirtControls.iml" filepath="$PROJECT_DIR$/../FootShirtControls/.idea/FootShirtControls.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JerseyColorDetection.iml" filepath="$PROJECT_DIR$/.idea/JerseyColorDetection.iml" />
       <module fileurl="file://$PROJECT_DIR$/../JerseyCrawl/.idea/JerseyCrawl.iml" filepath="$PROJECT_DIR$/../JerseyCrawl/.idea/JerseyCrawl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../WikiCrawl/.idea/WikiCrawl.iml" filepath="$PROJECT_DIR$/../WikiCrawl/.idea/WikiCrawl.iml" />
     </modules>
   </component>
 </project>
