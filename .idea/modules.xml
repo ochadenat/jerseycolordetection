@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/JerseyColorDetection.iml" filepath="$PROJECT_DIR$/.idea/JerseyColorDetection.iml" />
       <module fileurl="file://$PROJECT_DIR$/../JerseyCrawl/.idea/JerseyCrawl.iml" filepath="$PROJECT_DIR$/../JerseyCrawl/.idea/JerseyCrawl.iml" />
       <module fileurl="file://$PROJECT_DIR$/../WikiCrawl/.idea/WikiCrawl.iml" filepath="$PROJECT_DIR$/../WikiCrawl/.idea/WikiCrawl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../football-data/.idea/football-data.iml" filepath="$PROJECT_DIR$/../football-data/.idea/football-data.iml" />
     </modules>
   </component>
 </project>
