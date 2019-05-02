@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d412e56-6c1c-46f0-a6e0-d00abf17068c" name="Default Changelist" comment="added HTML table">
-      <change afterPath="$PROJECT_DIR$/../CreateSiteMap/analyzeGoogleIndexCoverage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CreateSiteMap/createSiteMap.py" beforeDir="false" afterPath="$PROJECT_DIR$/../CreateSiteMap/createSiteMap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../create_site_map/analyze_google_index_coverage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../create_site_map/create_site_map.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twitter_examples/twitter_examples_with_tweepy.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../FootShirtControls/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../FootShirtControls/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../FootShirtControls/footShirtControls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../FootShirtControls/footShirtControls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JerseyCrawl/crawl_subsidesports_archive.csv" beforeDir="false" />
@@ -13,7 +14,12 @@
       <change beforePath="$PROJECT_DIR$/../JerseyCrawl/team.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../JerseyCrawl/team.xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../WikiCrawl/team.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../WikiCrawl/team.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../WikiCrawl/team_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../WikiCrawl/team_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../create_site_map/.idea/CreateSiteMap.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../create_site_map/.idea/create_site_map.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../create_site_map/createSiteMap.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../football-data/football-data.py" beforeDir="false" afterPath="$PROJECT_DIR$/../football-data/football-data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../soccer_jerseys_color_analysis/.idea/soccer-jerseys-color-analysis.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../soccer_jerseys_color_analysis/.idea/soccer_jerseys_color_analysis.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../soccer_jerseys_color_analysis/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../soccer_jerseys_color_analysis/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../soccer_jerseys_color_analysis/soccer-jerseys-color-analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../soccer_jerseys_color_analysis/soccer_jerseys_color_analysis.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,8 +32,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../football-data/football-data.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="125" column="28" lean-forward="true" selection-start-line="125" selection-start-column="28" selection-end-line="125" selection-end-column="28" />
+            <state relative-caret-position="186">
+              <caret line="125" column="28" selection-start-line="125" selection-start-column="28" selection-end-line="125" selection-end-column="28" />
               <folding>
                 <element signature="e#480#491#0" expanded="true" />
               </folding>
@@ -81,16 +87,24 @@
         <subPane>
           <expand>
             <path>
-              <item name="JerseyColorDetection" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JerseyColorDetection" type="462c0819:PsiDirectoryNode" />
+              <item name="soccer-jerseys-color-analysis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="create_site_map" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="JerseyColorDetection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="soccer-jerseys-color-analysis" type="b2602c69:ProjectViewProjectNode" />
               <item name="football-data" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="JerseyColorDetection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="soccer-jerseys-color-analysis" type="b2602c69:ProjectViewProjectNode" />
               <item name="FootShirtControls" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="soccer-jerseys-color-analysis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="soccer_jerseys_color_analysis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="soccer-jerseys-color-analysis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="twitter_examples" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -102,7 +116,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../RetrieveAPI" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../create_site_map" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable" />
@@ -121,7 +135,7 @@
   </component>
   <component name="RunManager" selected="Python.football-data">
     <configuration default="true" type="DjangoTestsConfigurationType">
-      <module name="soccer-jerseys-color-analysis" />
+      <module name="soccer_jerseys_color_analysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -141,7 +155,7 @@
       <method v="2" />
     </configuration>
     <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
-      <module name="soccer-jerseys-color-analysis" />
+      <module name="soccer_jerseys_color_analysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
@@ -154,7 +168,7 @@
       <method v="2" />
     </configuration>
     <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
-      <module name="soccer-jerseys-color-analysis" />
+      <module name="soccer_jerseys_color_analysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
@@ -167,7 +181,7 @@
       <method v="2" />
     </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
-      <module name="soccer-jerseys-color-analysis" />
+      <module name="soccer_jerseys_color_analysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -233,7 +247,7 @@
       <method v="2" />
     </configuration>
     <configuration default="true" type="Python.FlaskServer">
-      <module name="soccer-jerseys-color-analysis" />
+      <module name="soccer_jerseys_color_analysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
@@ -246,7 +260,7 @@
       <method v="2" />
     </configuration>
     <configuration default="true" type="Tox" factoryName="Tox">
-      <module name="soccer-jerseys-color-analysis" />
+      <module name="soccer_jerseys_color_analysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
@@ -258,7 +272,7 @@
       <method v="2" />
     </configuration>
     <configuration default="true" type="tests" factoryName="Doctests">
-      <module name="soccer-jerseys-color-analysis" />
+      <module name="soccer_jerseys_color_analysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
@@ -277,7 +291,7 @@
       <method v="2" />
     </configuration>
     <configuration default="true" type="tests" factoryName="Unittests">
-      <module name="soccer-jerseys-color-analysis" />
+      <module name="soccer_jerseys_color_analysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
@@ -286,6 +300,22 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <module name="create_site_map" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
@@ -313,7 +343,7 @@
       <workItem from="1554056851267" duration="8069000" />
       <workItem from="1556463414044" duration="349000" />
       <workItem from="1556480811156" duration="1294000" />
-      <workItem from="1556582742659" duration="7534000" />
+      <workItem from="1556582742659" duration="8689000" />
     </task>
     <task id="LOCAL-00001" summary="Refactor HTML table function">
       <created>1554077377489</created>
@@ -333,17 +363,17 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18178000" />
+    <option name="totallyTimeSpent" value="19333000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="2575" height="1424" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13150576" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13150576" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32913387" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32913387" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -375,13 +405,13 @@
     <SUITE FILE_PATH="coverage/JerseyColorDetection$football_data.coverage" NAME="football-data Coverage Results" MODIFIED="1556670411120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../football-data" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/jerseyColorDetection.ipynb">
+    <entry file="file://$PROJECT_DIR$/../soccer_jerseys_color_analysis/soccer_jerseys_color_analysis.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/../football-data/football-data.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="125" column="28" lean-forward="true" selection-start-line="125" selection-start-column="28" selection-end-line="125" selection-end-column="28" />
+        <state relative-caret-position="186">
+          <caret line="125" column="28" selection-start-line="125" selection-start-column="28" selection-end-line="125" selection-end-column="28" />
           <folding>
             <element signature="e#480#491#0" expanded="true" />
           </folding>
