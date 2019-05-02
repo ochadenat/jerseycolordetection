@@ -9,7 +9,7 @@
   <component name="TemplatesService">
     <option name="TEMPLATE_FOLDERS">
       <list>
-        <option value="$MODULE_DIR$/venv/Lib/site-packages/pandas/io/formats/templates" />
+        <option value="$MODULE_DIR$/../JerseyColorDetection/venv/Lib/site-packages/pandas/io/formats/templates" />
       </list>
     </option>
   </component>
