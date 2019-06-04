@@ -2,24 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d412e56-6c1c-46f0-a6e0-d00abf17068c" name="Default Changelist" comment="added HTML table">
+      <change afterPath="$PROJECT_DIR$/../create_site_map/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../create_site_map/analyze_google_index_coverage.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../create_site_map/create_site_map.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../football-data/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../twitter_examples/twitter_examples_with_tweepy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FootShirtControls/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../FootShirtControls/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FootShirtControls/footShirtControls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../FootShirtControls/footShirtControls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JerseyCrawl/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../JerseyCrawl/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JerseyCrawl/.idea/JerseyCrawl.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../JerseyCrawl/.idea/jersey_crawl.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JerseyCrawl/crawl_subsidesports_archive.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../JerseyCrawl/crawl_subsidesports_images.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../JerseyCrawl/crawl_subsidesports_images.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JerseyCrawl/crawl_subsidesports_images_grid.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../JerseyCrawl/jerseyCrawl.py" beforeDir="false" afterPath="$PROJECT_DIR$/../JerseyCrawl/jerseyCrawl.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JerseyCrawl/team.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../JerseyCrawl/team.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WikiCrawl/team.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../WikiCrawl/team.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WikiCrawl/team_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../WikiCrawl/team_data.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../create_site_map/.idea/CreateSiteMap.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../create_site_map/.idea/create_site_map.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../create_site_map/createSiteMap.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../football-data/football-data.py" beforeDir="false" afterPath="$PROJECT_DIR$/../football-data/football-data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../soccer_jerseys_color_analysis/.idea/soccer-jerseys-color-analysis.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../soccer_jerseys_color_analysis/.idea/soccer_jerseys_color_analysis.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../soccer_jerseys_color_analysis/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../soccer_jerseys_color_analysis/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../soccer_jerseys_color_analysis/soccer-jerseys-color-analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../soccer_jerseys_color_analysis/soccer_jerseys_color_analysis.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,22 +28,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../football-data/football-data.py">
+        <entry file="file://$PROJECT_DIR$/../football-data/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
-              <caret line="125" column="28" selection-start-line="125" selection-start-column="28" selection-end-line="125" selection-end-column="28" />
-              <folding>
-                <element signature="e#480#491#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../FootShirtControls/footShirtControls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1751">
-              <caret line="108" column="3" selection-start-line="108" selection-start-column="3" selection-end-line="108" selection-end-column="87" />
+            <state relative-caret-position="51">
+              <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -68,6 +54,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/../football-data/football-data.py" />
+        <option value="$PROJECT_DIR$/../create_site_map/.gitignore" />
+        <option value="$PROJECT_DIR$/../wikicrawl/.gitignore" />
+        <option value="$PROJECT_DIR$/../JerseyCrawl/.gitignore" />
+        <option value="$PROJECT_DIR$/../footshirt_controls/.gitignore" />
+        <option value="$PROJECT_DIR$/../footshirt_retrieve_api/.gitignore" />
       </list>
     </option>
   </component>
@@ -96,15 +87,7 @@
             </path>
             <path>
               <item name="soccer-jerseys-color-analysis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FootShirtControls" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="soccer-jerseys-color-analysis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="soccer_jerseys_color_analysis" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="soccer-jerseys-color-analysis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="twitter_examples" type="462c0819:PsiDirectoryNode" />
+              <item name="footshirt_controls" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -116,10 +99,19 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../create_site_map" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../football-data" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ochad\PycharmProjects\football-data" />
+      <recent name="C:\Users\ochad\PycharmProjects\footshirt_retrieve_api" />
+      <recent name="C:\Users\ochad\PycharmProjects\footshirt_controls" />
+      <recent name="C:\Users\ochad\PycharmProjects\wikicrawl" />
+      <recent name="C:\Users\ochad\PycharmProjects\create_site_map" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -203,7 +195,7 @@
       <method v="2" />
     </configuration>
     <configuration name="footShirtControls" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="FootShirtControls" />
+      <module name="footshirt_controls" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -343,7 +335,7 @@
       <workItem from="1554056851267" duration="8069000" />
       <workItem from="1556463414044" duration="349000" />
       <workItem from="1556480811156" duration="1294000" />
-      <workItem from="1556582742659" duration="8689000" />
+      <workItem from="1556582742659" duration="9833000" />
     </task>
     <task id="LOCAL-00001" summary="Refactor HTML table function">
       <created>1554077377489</created>
@@ -363,17 +355,17 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19333000" />
+    <option name="totallyTimeSpent" value="20477000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="2575" height="1424" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13150576" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23559794" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32913387" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32913387" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32913387" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -418,10 +410,60 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../FootShirtControls/footShirtControls.py">
+    <entry file="file://$PROJECT_DIR$/../footshirt_controls/footshirt_controls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1751">
           <caret line="108" column="3" selection-start-line="108" selection-start-column="3" selection-end-line="108" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../create_site_map/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wikicrawl/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../footshirt_controls/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../footshirt_controls/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../footshirt_retrieve_api/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JerseyCrawl/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../football-data/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
         </state>
       </provider>
     </entry>
