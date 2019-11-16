@@ -1,5 +1,6 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 # IDEs and editors
 /.ipynb_checkpoints
+/.idea
 # Data
 jerseys_colors.csv
